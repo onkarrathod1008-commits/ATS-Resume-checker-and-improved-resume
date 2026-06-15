@@ -1,6 +1,6 @@
 ATS Resume Checker Website - Python Version
 ===========================================
-
+IT IS VIBE CODED
 Files:
 - ats_resume_checker.py
 - ATSResumeCheckerWebsite.java
